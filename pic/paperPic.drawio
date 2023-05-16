@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:39:38.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="WGAIOfGL1Uejgjv0ah9r" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:41:04.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G92PRSDjBSOaIAHqamTi" version="21.3.2" type="github" pages="2">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,6 +245,12 @@
             <mxPoint x="-1523.914" y="-2737.965" as="sourcePoint" />
             <mxPoint x="-1425" y="-2738" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qMP-OAKOEyKH05NIaebe-34" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;逻辑信道&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-2635" width="178" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="qMP-OAKOEyKH05NIaebe-35" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;传输信道&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="-2571" width="178" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
