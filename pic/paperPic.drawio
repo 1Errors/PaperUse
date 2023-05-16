@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:12:24.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Xayx-ukZ-jZotHwl5eNq" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:15:00.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JN-M9tjeS1LVRDDHgpoG" version="21.3.2" type="github" pages="3">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,10 +271,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qwRxvxWgXycxYLRj6-Lz" name="第 3 页">
-    <mxGraphModel dx="1210" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a4CptCAmmd1Kx142u8AR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontSize=16;fontColor=#FFFFFF;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="-110" width="282" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="a4CptCAmmd1Kx142u8AR-2" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;UeNetDevice&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="-136" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4CptCAmmd1Kx142u8AR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontSize=16;fontColor=#FFFFFF;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-110" width="282" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="a4CptCAmmd1Kx142u8AR-5" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;EnbNetDevice&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="353" y="-136" width="144" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
