@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T09:23:44.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oPNGit-NLKzutaWagGko" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-16T09:24:37.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pr9raxiA14Lo_0S-zAlI" version="21.3.2" type="github" pages="3">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qwRxvxWgXycxYLRj6-Lz" name="第 3 页">
-    <mxGraphModel dx="1610" dy="1244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,6 +304,18 @@
         </mxCell>
         <mxCell id="a4CptCAmmd1Kx142u8AR-15" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;EnbLteSpectrumPhy&lt;br&gt;(uplink)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fontSize=16;fontColor=#FFFFFF;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="526" y="40" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4CptCAmmd1Kx142u8AR-17" value="" style="endArrow=blockThin;html=1;rounded=0;strokeColor=#23445D;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.844;exitY=0.978;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;endFill=1;strokeWidth=2;" edge="1" parent="1" source="a4CptCAmmd1Kx142u8AR-1" target="a4CptCAmmd1Kx142u8AR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="-42" as="sourcePoint" />
+            <mxPoint x="236" y="-92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4CptCAmmd1Kx142u8AR-18" value="" style="endArrow=blockThin;html=1;rounded=0;strokeColor=#23445D;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.844;exitY=0.978;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;endFill=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-158.34" y="-14" as="sourcePoint" />
+            <mxPoint x="-158.34" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
