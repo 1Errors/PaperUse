@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:32:54.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EBaiF-guW6QuQT0EGimW" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:35:18.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2n2THcLY5ccoDAK7lxUz" version="21.3.2" type="github" pages="2">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OWeD31ghj7nfhG7a-76N" name="第 2 页">
-    <mxGraphModel dx="2407" dy="3763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="3875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,19 +187,19 @@
         <mxCell id="qMP-OAKOEyKH05NIaebe-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;fontSize=12;startSize=8;endSize=8;endArrow=blockThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="qMP-OAKOEyKH05NIaebe-5" target="qMP-OAKOEyKH05NIaebe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qMP-OAKOEyKH05NIaebe-5" value="&lt;b&gt;RLC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=default;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qMP-OAKOEyKH05NIaebe-5" value="&lt;b&gt;RLC&lt;br&gt;无线链路控制&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=default;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1476" y="-2653" width="311" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qMP-OAKOEyKH05NIaebe-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;fontSize=12;startSize=8;endSize=8;endArrow=blockThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="qMP-OAKOEyKH05NIaebe-6" target="qMP-OAKOEyKH05NIaebe-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qMP-OAKOEyKH05NIaebe-6" value="&lt;b&gt;MAC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=default;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qMP-OAKOEyKH05NIaebe-6" value="&lt;b&gt;MAC&lt;br&gt;介质访问控制&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=default;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1476" y="-2585" width="311" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qMP-OAKOEyKH05NIaebe-7" value="&lt;b&gt;PHY&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=default;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1531" y="-2517" width="421" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="qMP-OAKOEyKH05NIaebe-4" value="&lt;b&gt;PDCP&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#FFFFFF;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qMP-OAKOEyKH05NIaebe-4" value="&lt;b&gt;PDCP&lt;br&gt;分组数据汇入协议&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#FFFFFF;strokeColor=#4D4D4D;fontColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1476" y="-2721" width="311" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qMP-OAKOEyKH05NIaebe-17" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;控制面&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -236,6 +236,9 @@
         </mxCell>
         <mxCell id="qMP-OAKOEyKH05NIaebe-30" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;信令&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1486" y="-2816" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMP-OAKOEyKH05NIaebe-31" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;b&gt;承载&lt;br&gt;（信令承载、无线承载）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1664" y="-2770" width="178" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
