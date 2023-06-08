@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T07:11:30.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SuCFCxJHmJbkzJHhAPSm" version="21.3.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-08T08:22:47.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VrvPvMh5glLBgP1P1xId" version="21.3.7" type="github" pages="7">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,40 +587,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ejof210SbWDIESj1JT0b" name="第 6 页">
-    <mxGraphModel dx="1264" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1610" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xGT1wEVFlMTyERI9798Y-1" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-1" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-214" y="161" width="99" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-3" value="" style="shape=mxgraph.signs.safety.non-ionizing_radiation;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-3" value="" style="shape=mxgraph.signs.safety.non-ionizing_radiation;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="378" y="151" width="62" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-4" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon26;fontSize=16;rotation=45;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-4" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon26;fontSize=16;rotation=45;" parent="1" vertex="1">
           <mxGeometry x="-136" y="142.5" width="38" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-6" value="&lt;b&gt;发送功率&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-6" value="&lt;b&gt;发送功率&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-214" y="227" width="100" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-7" value="&lt;b&gt;发送增益&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-7" value="&lt;b&gt;发送增益&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-115" y="227" width="98" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-8" value="&lt;b&gt;接收阈值&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-8" value="&lt;b&gt;接收阈值&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="342" y="227" width="98" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-9" value="&lt;b&gt;接收增益&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-9" value="&lt;b&gt;接收增益&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="244" y="227" width="98" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=5.378571428571429;curved=1;width=6.428571428571429;endWidth=11.83673469387755;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=5.378571428571429;curved=1;width=6.428571428571429;endWidth=11.83673469387755;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6" y="241" as="sourcePoint" />
             <mxPoint x="220" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGT1wEVFlMTyERI9798Y-11" value="&lt;b&gt;噪声+过程损失&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xGT1wEVFlMTyERI9798Y-11" value="&lt;b&gt;噪声+过程损失&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="53" y="212" width="121" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4m16PHAOonzgUd8xbclq" name="第 7 页">
+    <mxGraphModel dx="1210" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
