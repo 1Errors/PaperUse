@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T08:24:04.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TslEbPcl2kGnGPpLNlDX" version="21.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-08T08:24:22.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nb5g4NYIqx4IPo6nHaBF" version="21.3.7" type="github" pages="7">
   <diagram name="第 1 页" id="0gCKScpp9jeklzMGLLRe">
     <mxGraphModel dx="1210" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HqfkTV3AeKzZZBu4tToP-1" value="&lt;b&gt;NetFlow&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HqfkTV3AeKzZZBu4tToP-1" value="&lt;b&gt;NetFlow&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="-117" width="120" height="43" as="geometry" />
         </mxCell>
       </root>
